@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
   },
   texto: {
         paddingHorizontal: 16,
-        color: '#000000',
+        color: '#61dafb',
         fontSize: 24
     }   
 });

@@ -32,11 +32,11 @@ class Body extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 9,
-    backgroundColor: '#424956',
+    backgroundColor: '#cfd8dc',
   },
   title:{
     fontSize: 20,
-    color: '#61dafb'
+    color: 'black'
   }
 });
 

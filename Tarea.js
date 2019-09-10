@@ -29,6 +29,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16
   },
   texto: {
+    color: '#448aff',
     fontSize: 24
   }
 });
